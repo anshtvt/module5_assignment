@@ -1,2 +1,2 @@
-# module5_assignment
-This is the answer for the module 5 assignment - coursera 
+# module_5
+Solution for assignment 5 - David choo's restaurant website 
